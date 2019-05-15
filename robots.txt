@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ugeiloisi.takeabyte.io/sitemap.xml
